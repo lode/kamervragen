@@ -1,0 +1,23 @@
+.question-header-prefix {
+	margin-bottom: 0;
+	font-size: 24px;
+}
+.question-header {
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+.questions hr {
+	margin: 1em 0;
+}
+.questions li {
+	margin: 0.5em 0;
+}
+.questions select {
+	line-height: 19px !important;
+	border-style: dotted;
+	background-color: inherit;
+}
+.questions option {
+	line-height: 19px !important;
+}
